@@ -30,6 +30,7 @@ Here are some exercises to play with. They have been grouped based on difficulty
 * **Exercise:** The ball is moving very slowly. Can you make the ball go a little faster?
 * **Exercise:** Can you change the ball color?
 * **Exercise:** In the score board the players are colored differently, but their paddles are both white. Can you color each of the player paddles in their own player's color?
+* **Exercise:** Can you prevent the paddles from moving off the top and bottom of screen?
 
 
 ### Intermediate
