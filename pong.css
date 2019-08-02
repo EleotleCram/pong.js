@@ -1,0 +1,57 @@
+#screen {
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    background: black;
+    /* This following css rules are a common trick
+       to center the screen div inside the body */
+    top:0;left:0;bottom:0;right:0;
+    margin: auto;
+}
+
+.paddle {
+    position: absolute;
+    width: 20px;
+    height: 80px;
+    background: white;
+    top: 250px;
+}
+
+#paddle_a {
+    left: 20px;
+}
+
+#paddle_b {
+    right: 20px;
+}
+
+#ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: white;
+    top: 250px;
+    left: 400px;
+}
+
+#score_board {
+    color: green;
+    width: 500px;
+	margin: auto;
+}
+
+#score_board h1 {
+    text-align: center;
+}
+
+#score_board #player1 {
+    color: red;
+}
+
+#score_board #player2 {
+    color: blue;
+}
+
+#score_board .score {
+    margin: 0 10px;
+}
