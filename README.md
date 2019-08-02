@@ -16,3 +16,7 @@ To do these exercises you will need:
 * A minimal local webserver¹ (See [these instructions](doc/webserver-installation.md) to install one inside Chrome itself.)
 
 ¹ This example uses modern Javascript module syntax which, unfortunately, does not allow you to use `file://` any more.
+
+## Online demo
+
+An online demo of pong.js is available [here](https://eleotlecram.github.io/pong.js/pong.html)
