@@ -38,7 +38,7 @@ Here are some exercises to play with. They have been grouped based on difficulty
 * **Exercise:** Can you change the ball color into the color of the last player who played the ball?
 * **Exercise:** The game now always starts with the ball heading towards player 1's paddle. Can you make the game start with the ball going randomly at one of the two players?
 * **Exercise:** Can you make the ball round?
-* **Exercise:** Can you turn this game into a game of squash in which both players are at the same side and need to take turns when playing back the ball. (Hint: First do the last-player ball color change exercise, it will prime your thought process a little, making this exercise a little easier.)
+* **Exercise:** Can you turn this game into a game of squash in which both players are at the same side and need to take turns when playing back the ball? (Hint: First do the last-player ball color change exercise, it will prime your thought process a little, making this exercise a little easier.)
 * **Exercise:** Can you make the game stop when one player has scored 10 points and announce the winner? (Note: you can make the game loop stop by using `gameLoop.stop();`)
 * **Exercise:** Can you turn this game into a single player game, such that player 2 is played by the computer and always plays back the ball? (It would be impossible to win from this computer player, but a good exercise to test your insights and programming skills.)
 
