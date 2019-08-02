@@ -31,11 +31,10 @@ Here are some exercises to play with. They have been grouped based on difficulty
 * **Exercise:** Can you change the ball color?
 * **Exercise:** In the score board the players are colored differently, but their paddles are both white. Can you color each of the player paddles in their own player's color?
 * **Exercise:** Can you prevent the paddles from moving off the top and bottom of screen?
-
+* **Exercise:** Can you make the ball go increasingly faster, every time a player plays back the ball? (First do the exercise in which you make the ball go faster.)
 
 ### Intermediate
 
-* **Exercise:** Can you make the ball go increasingly faster, every time a player plays back the ball?
 * **Exercise:** Can you change the ball color into the color of the last player who played the ball?
 * **Exercise:** The game now always starts with the ball heading towards player 1's paddle. Can you make the game start with the ball going randomly at one of the two players?
 * **Exercise:** Can you make the ball round?
