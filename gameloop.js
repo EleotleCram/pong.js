@@ -1,9 +1,18 @@
 const gameLoop = (mainLoop) => {
 	const animationLoop = () => {
 		mainLoop();
-		requestAnimationFrame(animationLoop);
+
+		if(gameLoop.isRunning) {
+			requestAnimationFrame(animationLoop);
+		}
 	}
+
+	gameLoop.isRunning = true;
 	requestAnimationFrame(animationLoop);
 };
+
+gameLoop.stop = () => {
+	gameLoop.isRunning = false;
+}
 
 export default gameLoop;
